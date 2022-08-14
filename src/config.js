@@ -1,0 +1,6 @@
+export default {
+  API_WEATHER:
+    process.env.API_WEATHER || "https://api.openweathermap.org/data/2.5/weather",
+  API_WEATHER_KEY:
+    process.env.API_WEATHER_KEY || "f825344b0cf0672c689378549f9868db",
+};
