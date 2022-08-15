@@ -1,6 +1,14 @@
 {
   "common": {
     "translate-button": "FR",
-    "translated-text": "C'est du français"
-  }
+    "translated-text": "C'est du français",
+    "light-mode": "Mode lumière",
+    "dark-mode": "Mode sombre"
+  },
+  "search":"chercher",
+  "humidity":"Humidité",
+  "temp": "Température",
+  "temp_min": "Température minimum",
+  "temp_max": "Température maximal",
+  "pressure": "Pression"
 }
